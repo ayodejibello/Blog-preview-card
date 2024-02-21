@@ -1,0 +1,88 @@
+             body{
+                 background-color:#F9D623;
+                 font-family: Figtree;
+             }
+             .container{
+                 border:1px solid black;
+                 border-radius: 10px;
+                 background-color: white;
+                 margin-top: 50px;
+                 box-shadow: 8px 8px 0.8px ;
+                 margin-right:auto;
+                 display: inline-block;
+                 margin-left: auto;
+              .container:hover{
+                  box-shadow:10px 10px 0.8px;
+              }
+
+                 
+                 
+             }
+             .illustration {
+                 width:300px;
+                 margin-left: auto;
+                 margin-right: auto;
+                 border-radius: 15px;
+             }
+             .image{
+                 margin-left: auto;
+                 margin-right: auto;
+                 margin-top: 25px;
+                 margin-bottom: 10px;
+                 padding-left: 15px;
+                 padding-right: 15px;
+                 
+             }
+             .button{
+                 border-style: none;
+                 padding: 8px 16px 8px 16px ;
+                 background-color: #FFC000;
+                 display:inline-block;
+                 margin-top:20px;
+                 border-radius: 5px;
+                 margin-left:20px;
+                 margin-bottom: 15px;
+                 font-weight: bold;
+                 font-size: 12px;
+                 justify-content: center;
+                 align-items: center;
+                 font-family: Figtree;
+                 
+             }
+             .date{
+                 font-weight: bold;
+                 font-size: 14px;
+                 margin-left: 25px;
+                 margin-bottom: 20px;
+                 font-family: Figtree;
+                 
+             }
+             .heading{
+                 font-size:20px;
+                 font-weight:bold;
+                 margin-left: 25px;
+                 font-family: Figtree;
+             }
+             p{
+                 color:#788099;
+                 width: 300px;
+                 line-height: 25px;
+                 margin-left: 25px;
+                 font-family: Figtree;
+             }
+             .name{
+                 vertical-align: top;
+                 margin-top: 8px;
+                 display: inline-block;
+                 font-weight: 1000;
+                 font-size: 12px;
+                 font-family: Figtree;
+             }
+             .profile-image{
+                 width: 30px;
+             }
+             .profile-container{
+                 margin-left: 25px;
+                 margin-bottom: 25px;
+             }
+ 
